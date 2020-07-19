@@ -1,0 +1,213 @@
+html{
+    background: #000033;  
+}
+header a{
+    text-decoration: none;
+    position: relative;
+    left: 15px;
+    top: 20px;
+    font-size: 30px;
+    color: orange;
+}
+
+header a:hover{
+ color: white;   
+ transition: all.9s ease-in-out;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   
+}
+#i1{
+    position: relative;
+    left: 370px;
+    top: 22px;
+    color: orange;
+    font-size: 30px;
+}
+#i2{
+    position: relative;
+    left: 300px;
+    top: 22px;
+   color: orange;
+   font-size: 30px;
+}
+#i3{
+    position: relative;
+    left: 250px;
+    top: 22px;
+   color: orange;
+    font-size: 30px;  
+}
+#i4{
+    position: relative;
+    left: 170px;
+    top: 22px;
+   color: orange;
+   font-size: 30px;
+}
+#i5{
+    position: relative;
+    left: 520px;
+    bottom: 10px;
+   color: orange;
+   font-size: 30px; 
+}
+#i6{
+    position: relative;
+    left: 250px;
+    bottom: 30px;
+   color: orange;
+   font-size: 30px; 
+}
+#i1:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+}
+#i2:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+}
+#i3:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+}
+#i4:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+}
+#i5:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+}
+
+#i6:hover{
+    color:white;
+transition: all.9s ease-in-out;
+}
+
+p{
+    
+
+}
+#men1{
+    position: relative;
+    top: 350px;
+    color: orange;
+    font-size: 24px ;
+}
+#men2{
+    position: relative;
+    top: 400px;
+    color: orange;
+    font-size: 24px;
+}
+#men3{
+    position: relative;
+    top: 100px;
+    left: 450px;
+    font-size: 90px;
+    color: orange;
+}
+#men4{
+    border: solid 2px orange;
+    position: relative;
+    bottom: 140px;
+    border-radius: 15%;
+    width: 200px;
+    height: 200px;
+}
+#men5{
+    border: solid 2px orange;
+    position: relative;
+    bottom: 100px;
+    border-radius: 15%;
+    width: 200px;
+    height: 200px;
+}
+#aj{
+    position: relative;
+    bottom: 310px;
+    font-size: 40px;
+
+}
+#bubs{
+    position: relative;
+    bottom: 275px;
+    font-size: 40px;
+
+}
+#bio1{
+    position: relative;
+    bottom: 170px;
+    font-size: 60px;
+}
+#bio2{
+    position: relative;
+    bottom: 130px;
+ 
+    color: orange;
+font-size: 60px;
+}
+#house1{
+    color: orange;
+    position: relative;
+    left: 635px;
+    bottom: 20px;
+
+    font-size: 40px;
+
+}
+
+
+@media(max-width: 768px){
+    #brother,
+    #i1,
+    #i2,
+    #i3,
+    #i4,
+    #i5,
+    #i6{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    
+}
+
+.Ajani{
+    color: orange;
+    background-color: darkblue;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    position: relative;
+    top:130px;
+    right:350px;
+}
+
+.Ajani:hover{
+    background-color: whitesmoke;
+     transition: .9s ease-in-out;
+}
+
+
+
+
+.Hasani{
+    color: orange;
+    background-color: darkblue;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    position: relative;
+    top:130px;
+    right:320px;
+}
+
+.Hasani:hover{
+    background-color: whitesmoke;
+     transition: .9s ease-in-out;
+}

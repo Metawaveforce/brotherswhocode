@@ -1,0 +1,191 @@
+html{
+    background: #000033; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+ }
+ header{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+     
+}
+
+    #bro{
+        position: relative;
+        right: 25px;
+    }
+
+ header i{
+color: white;
+font-size: 34px;
+ }
+ i{
+     font-size: 24px;
+ }
+ #one{
+     position: relative;
+     left:  75px;
+     top:  24px;
+     color: orange;
+     font-size: 30px;
+ }
+ #two{
+    position: relative;
+    left: 175px ;
+    top: 24px ;
+    color: orange;
+    font-size: 30px;
+ }
+ #three{
+    position: relative;
+    left: 155px;
+    top: 24px;
+    color: orange;
+     font-size: 30px;  
+ }
+ #four{
+    position: relative;
+    left: 155px;
+    top: 24px;
+    color: orange;
+    font-size: 30px;
+ }
+ #five{
+    position: relative;
+    left: 155px;
+    top: 26px;
+    color: orange;
+    font-size: 30px; 
+ }
+ #six{
+    position: relative;
+    left: 175px;
+    top: 24px ;
+    color: orange;
+    font-size: 30px; 
+ }
+ #one:hover{
+color:white;
+transition: all.9s ease-in-out;
+ }
+ #two:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+ }
+ #three:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+ }
+ #four:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+ }
+ #five:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+ }
+ #six:hover{
+    color:white;
+    transition: all.9s ease-in-out;
+ }
+ #leave{
+     color: orange;
+     font-size: 80px;
+     position: relative;
+     left: 400px;
+     top: 150px ;
+ }
+ input{
+     border: solid white 2px;
+     background-color: orange;   
+     color: white;
+     font-size: 30px;
+     position: relative;
+     top: 200px;
+     left: 400px;
+     height: 300px;
+     width: 600px;
+ }
+ button{
+     border: solid orange 2px;
+    position: relative;
+    top: 365px;
+    left: 335px;
+ }
+ header a{
+     text-decoration: none;
+    position: relative;
+    left: 15px;
+    top: 20px;
+     color: orange;
+     font-size: 30px;
+ }
+
+ header a:hover{
+    color: white;   
+    transition: all.9s ease-in-out;
+   }
+   
+
+
+ #house2{
+    color: orange;
+    position: relative;
+    left: 1230px;
+    top: 330px;
+
+    font-size: 40px;
+
+}
+#reply{
+    position: relative;
+    left: 865px;
+    top: 30px;
+    font-size: 30px;
+    color: white;
+}
+#meds{
+    position: relative;
+    bottom: 400px;
+    font-size: 30px;
+    color: white;
+    align-content: top;
+}
+#talk{
+   
+    
+    
+}
+#poop{
+    font-size: 30px;
+    color: orange;
+    position: relative;  
+    top: 200px;
+    left: 300px;
+}
+#fart{
+    font-size: 30px;
+    color: orange;
+    position: relative;  
+    top: 200px;
+    left: 300px;
+}  
+#black{
+width: 300px;
+height: 100px;
+}
+#white{
+
+    width: 300px;
+    height: 100px;
+}
+
+#btn{
+    position: relative;  
+    top: 300px;
+}
+
+
+
